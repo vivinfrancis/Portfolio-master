@@ -34,7 +34,7 @@ function Projects() {
               description="SquareNow is our flagship product, designed to provide an all-encompassing solution for financial institutions. From monitoring field officers activities to seamlessly managing financial data and even creating balance sheets and profit and loss statements, SquareNow is the quintessential LMS that transforms the way lending institutions operate."
               languages="Angular Js, Javascript, Php & MySQL"
               // ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://kapiital.com/index.php/project/squarenow/"
+              demoLink="https://squarenow.in/index.html"
             />
           </Col>
 

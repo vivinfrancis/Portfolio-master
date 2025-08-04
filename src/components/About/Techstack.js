@@ -11,6 +11,7 @@ import {
 import {
   SiExpo,
   SiRedux,
+  SiTypescript,
 } from "react-icons/si";
 
 function Techstack() {
@@ -51,6 +52,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <FaAngular />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTypescript/>
       </Col>
     </Row>
   );
